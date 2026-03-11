@@ -130,8 +130,6 @@ score = 0.40 × bpm_score + 0.35 × harmonic_score + 0.25 × energy_score
 
 - [ ] Last.fm integration for "people also listen to" layer
 - [ ] Camelot Wheel graph visualization
-- [ ] Export tracklist to CSV / Rekordbox XML
-- [ ] Audio preview playback in the UI
 - [ ] User auth to pull from personal Spotify library
 
 ---
